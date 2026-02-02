@@ -24,4 +24,4 @@ Projeto disponível em:
 - GitHub Pages: ([link do projeto](https://leandro-conde.github.io/Dashboard/))
 
 ## 📸 Preview
-![Preview do projeto](images/preview.png)
+![Preview do projeto](imagens/preview.png)
