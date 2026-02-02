@@ -17,13 +17,13 @@ function atualizarDashboard() {
         periodo.textContent = 'Boa tarde!'
         mensagem.textContent = 'bora produzir!'
         imagem.src = 'imagens/afternoon.png'
-        document.body.style.background = 'linear-gradient(180deg, #e6f0ff, #b3d1ff)'
+        document.body.style.background = 'linear-gradient(180deg, #background-color: #db7705;, #b3d1ff)'
     
     } else { 
             periodo.textContent = 'Boa noite!'
             mensagem.textContent = 'bora dormir!'
             imagem.src = 'imagens/night.png'
-            document.body.style.background = 'linear-gradient(180deg, #1c1c3c, #000018)'
+            document.body.style.background = 'linear-gradient(180deg, #1c1c3c, #000018)' 
     }
 
 }
