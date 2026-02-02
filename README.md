@@ -21,7 +21,7 @@ Praticar manipulação de DOM, eventos e lógica condicional em JavaScript, alé
 
 ## 🔗 Acesso
 Projeto disponível em:
-- GitHub Pages: ([adicione o link aqui](https://leandro-conde.github.io/Dashboard/))
+- GitHub Pages: ([link do projeto](https://leandro-conde.github.io/Dashboard/))
 
 ## 📸 Preview
 ![Preview do projeto](images/preview.png)
